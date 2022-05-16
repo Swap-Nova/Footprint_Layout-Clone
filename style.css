@@ -1,0 +1,84 @@
+body{
+    background-color: bisque;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+.first-million{
+    position: relative;
+    top:40px;
+    left:300px;
+}
+
+.top-text1{
+    position: relative;
+    top:30px;
+    left:280px;
+}
+
+.second-million{
+    position: relative;
+    bottom:95px;
+    left:800px;
+}
+
+.top-text2{
+    position: relative;
+    bottom:110px;
+    left:780px;
+}
+
+.third-million{
+    position: relative;
+    left:550px;
+    bottom:100px;
+}
+
+.top-text3{
+    position: relative;
+    left:520px;
+    bottom:110px;
+}
+
+.figma{
+    max-width: 15%;
+    position: relative;
+    bottom:390px;
+    left:1120px;
+}
+
+.footprint-heading{
+    position: relative;
+    bottom:390px;
+    left:100px;
+}
+
+.middle-text{
+    position: relative;
+    bottom:400px;
+    left:100px;
+}
+
+.fourth-million{
+    position: relative;
+    bottom:650px;
+    left:800px;
+}
+
+.last-text1{
+    position: relative;
+    bottom:655px;
+    left:770px;
+}
+
+.fifth-million{
+    position: relative;
+    bottom:650px;
+    left:800px;
+}
+
+.last-text2{
+    position: relative;
+    bottom:655px;
+    left:770px;
+}
